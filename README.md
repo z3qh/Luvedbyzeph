@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 - 🌹 Owner of script hub **Rosá Hub**
-- 💻 Currently working at **FluxusZ & PulseTech**
+- 💻 Currently working at **FluxusZ**
 - 🛠️ Ex-developer at **ReveliX**
 - 🤝 Contributed to **Punk Team, DarkModz & Venox**
 - 🌀 Formerly known as **Blitz**

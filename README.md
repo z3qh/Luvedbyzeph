@@ -27,10 +27,10 @@
 ### 📫 Contact Me
 <p align="center">
   <a href="mailto:zeph.sys@gmail.com"><img src="https://img.shields.io/badge/Gmail-zeph.sys%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a><br/><br/>
-  <img src="https://img.shields.io/badge/Discord-LuvedByZeph-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-.zeqh-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
 </p>
 
 ---
 
-<p align="center"><i>"When life get hard you stop but when you get hard you keep going think of your life like a dick."</i></p>
+<p align="center"><i>"im so tall"</i></p>
  

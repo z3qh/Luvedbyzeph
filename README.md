@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I’m Zeph</h1>
 
 ### 🚀 About Me
-- 🌹 Owner of script hub **Rosá Hub**
+- 🌹 Owner of script hub **Rosava Hub**
 - 💻 Currently working at **FluxusZ**
 - 🛠️ Ex-developer at **ReveliX**
 - 🤝 Contributed to **Punk Team, DarkModz & Venox**
@@ -12,7 +12,7 @@
 ### 🧠 Skills & Interests
 - 🔹 **Languages:** Lua, Luau  
 - 🔹 **Reverse Engineering:** Intermediate (always learning)  
-- 🔹 **Focus:** UI design, Scripting
+- 🔹 **Focus:** UI Scripting, Scripting
 
 ---
 

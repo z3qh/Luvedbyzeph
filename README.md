@@ -2,7 +2,7 @@
 
 ### 🚀 About Me
 - 🌹 Owner of script hub **Rosava Hub**
-- 💻 Currently working at **FluxusZ**
+- 💻 Currently working at **FluxusZ & EzWin**
 - 🛠️ Ex-developer at **ReveliX**
 - 🤝 Contributed to **Punk Team, DarkModz & Venox**
 - 🌀 Formerly known as **Blitz**
